@@ -1,0 +1,66 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 6E49-61CD
+F:.
+³   .gitattributes
+³   .gitignore
+³   HELP.md
+³   mvnw
+³   mvnw.cmd
+³   pom.xml
+³   structure.txt
+³   
+ÃÄÄÄ.idea
+³       .gitignore
+³       compiler.xml
+³       copilot.data.migration.agent.xml
+³       copilot.data.migration.ask.xml
+³       copilot.data.migration.edit.xml
+³       encodings.xml
+³       jarRepositories.xml
+³       misc.xml
+³       workspace.xml
+³       
+ÃÄÄÄ.mvn
+³   ÀÄÄÄwrapper
+³           maven-wrapper.properties
+³           
+ÃÄÄÄsrc
+³   ÃÄÄÄmain
+³   ³   ÃÄÄÄjava
+³   ³   ³   ÀÄÄÄcom
+³   ³   ³       ÀÄÄÄai
+³   ³   ³           ÀÄÄÄaudio
+³   ³   ³               ÀÄÄÄtranscriber
+³   ³   ³                   ³   AiAudioTranscriberApplication.java
+³   ³   ³                   ³   
+³   ³   ³                   ÃÄÄÄconfig
+³   ³   ³                   ³       WebConfig.java
+³   ³   ³                   ³       
+³   ³   ³                   ÀÄÄÄcontroller
+³   ³   ³                           TranscriptionController.java
+³   ³   ³                           
+³   ³   ÀÄÄÄresources
+³   ³       ³   application.properties
+³   ³       ³   
+³   ³       ÃÄÄÄstatic
+³   ³       ÀÄÄÄtemplates
+³   ÀÄÄÄtest
+³       ÀÄÄÄjava
+³           ÀÄÄÄcom
+³               ÀÄÄÄai
+³                   ÀÄÄÄaudio
+³                       ÀÄÄÄtranscriber
+³                               AiAudioTranscriberApplicationTests.java
+³                               
+ÀÄÄÄtarget
+    ÃÄÄÄclasses
+    ³   ³   application.properties
+    ³   ³   
+    ³   ÀÄÄÄcom
+    ³       ÀÄÄÄai
+    ³           ÀÄÄÄaudio
+    ³               ÀÄÄÄtranscriber
+    ³                       AiAudioTranscriberApplication.class
+    ³                       
+    ÀÄÄÄgenerated-sources
+        ÀÄÄÄannotations
